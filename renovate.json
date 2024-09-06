@@ -1,3 +1,4 @@
 {
-  "lockFileMaintenance": { "enabled": true }
+  "lockFileMaintenance": { "enabled": true },
+  "prHourlyLimit": 10
 }
